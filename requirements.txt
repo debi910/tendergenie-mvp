@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+sentence-transformers
+transformers
+torch
+python-dateutil
+
+
+
+
